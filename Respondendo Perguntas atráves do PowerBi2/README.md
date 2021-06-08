@@ -7,3 +7,6 @@ Marketing gostaria de ter as respostas às perguntas abaixo:
 4. Qual o sistema operacional mais usado para acessar nosso portal?
 5. Qual o dispositivo mais usado para acesso ao nosso portal?
 6. Qual o total de faturamento por dia?
+
+
+![image](https://user-images.githubusercontent.com/84107069/121110227-586d6500-c7e3-11eb-82de-eaa6e734f488.png)
