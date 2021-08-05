@@ -11,5 +11,7 @@ Cada gerente traz um valor diferente para o Gasto da Obra.
 separado do pago. obs: Valor Pago contém pagamentos das NFs.;
 
 
-###Dashboard com a resolução do projeto:
+### Dashboard com a resolução do projeto:
+![dashboard](https://user-images.githubusercontent.com/84107069/128354588-8d745d2f-3bba-4042-ae63-09116df2fdbe.PNG)
+
 
